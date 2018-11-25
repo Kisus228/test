@@ -1,3 +1,4 @@
 print("Hello world")
 print("EEEESCHKEREEEE")
 print("האנמפפ")
+print("ְ׃ֵ")
